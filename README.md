@@ -83,23 +83,14 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waleedyaseen444&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waleedyaseen444&theme=tokyonight&hide_border=true&background=0D1117&v=1" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waleedyaseen444&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waleedyaseen444&theme=tokyonight&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleedyaseen444&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleedyaseen444&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleedyaseen444&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ### 🏗️ Selected Production Builds
