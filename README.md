@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Waleedyaseen444">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Muhammad+Waleed+Yaseen+%F0%9F%91%8B;Senior+Full-Stack+Architect;AI+%26+Blockchain+Engineer;Building+production-grade+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Waleed+Yaseen+%F0%9F%91%8B;Senior+Full-Stack+Architect;AI+%26+Blockchain+Engineer;Building+production-grade+SaaS" alt="Typing SVG" />
 </a>
 
 <p align="center">
